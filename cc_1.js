@@ -26,3 +26,29 @@ let productDetails = {
  let updatedBalance4 = accountBalance /=3;
  console.log(updatedBalance4);
 
+ let employeeScore1 = 1;
+ let employeeScore2 = 2;
+if (employeeScore1>employeeScore2) {
+  console.log(employeeScore1)
+        
+     };
+
+     if (employeeScore1>=employeeScore2) {
+        console.log(employeeScore1)
+              
+           };
+
+           if (employeeScore1<=employeeScore2) {
+            console.log(employeeScore2)
+                  
+               };
+
+               if (employeeScore1===employeeScore2) {
+                console.log(true)
+                      
+                   };
+                   if (employeeScore1!=employeeScore2) {
+                    console.log(false)
+                          
+                       };
+
