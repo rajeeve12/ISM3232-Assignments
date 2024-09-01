@@ -52,3 +52,19 @@ if (employeeScore1>employeeScore2) {
                           
                        };
 
+
+
+
+let hasKeyCard = true;
+let hasPermission = true;
+if (hasKeyCard&&hasPermission==true) {
+    console.log(This is true)
+};
+
+if (hasKeyCard||hasPermission==true) {
+    console.log(This is true)
+};
+if (hasKeyCard&&hasPermission!=true) {
+    console.log(This is false)
+};
+
